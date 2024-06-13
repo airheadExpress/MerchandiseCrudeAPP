@@ -1,1 +1,3 @@
-# MerchandiseCrudeAPI
+# MerchandiseCrudeAPP
+
+A simple CRUD App.
